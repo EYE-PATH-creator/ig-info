@@ -1,3 +1,0 @@
-Flask 
-request
-beautifulsoup4
